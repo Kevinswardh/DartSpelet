@@ -1,0 +1,15 @@
+C:\Users\Kevin Swärdh\source\repos\DartProgrammet\DartProgrammet\bin\Debug\net6.0\DartProgrammet.exe
+C:\Users\Kevin Swärdh\source\repos\DartProgrammet\DartProgrammet\bin\Debug\net6.0\DartProgrammet.deps.json
+C:\Users\Kevin Swärdh\source\repos\DartProgrammet\DartProgrammet\bin\Debug\net6.0\DartProgrammet.runtimeconfig.json
+C:\Users\Kevin Swärdh\source\repos\DartProgrammet\DartProgrammet\bin\Debug\net6.0\DartProgrammet.dll
+C:\Users\Kevin Swärdh\source\repos\DartProgrammet\DartProgrammet\bin\Debug\net6.0\ref\DartProgrammet.dll
+C:\Users\Kevin Swärdh\source\repos\DartProgrammet\DartProgrammet\bin\Debug\net6.0\DartProgrammet.pdb
+C:\Users\Kevin Swärdh\source\repos\DartProgrammet\DartProgrammet\obj\Debug\net6.0\DartProgrammet.csproj.AssemblyReference.cache
+C:\Users\Kevin Swärdh\source\repos\DartProgrammet\DartProgrammet\obj\Debug\net6.0\DartProgrammet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kevin Swärdh\source\repos\DartProgrammet\DartProgrammet\obj\Debug\net6.0\DartProgrammet.AssemblyInfoInputs.cache
+C:\Users\Kevin Swärdh\source\repos\DartProgrammet\DartProgrammet\obj\Debug\net6.0\DartProgrammet.AssemblyInfo.cs
+C:\Users\Kevin Swärdh\source\repos\DartProgrammet\DartProgrammet\obj\Debug\net6.0\DartProgrammet.csproj.CoreCompileInputs.cache
+C:\Users\Kevin Swärdh\source\repos\DartProgrammet\DartProgrammet\obj\Debug\net6.0\DartProgrammet.dll
+C:\Users\Kevin Swärdh\source\repos\DartProgrammet\DartProgrammet\obj\Debug\net6.0\ref\DartProgrammet.dll
+C:\Users\Kevin Swärdh\source\repos\DartProgrammet\DartProgrammet\obj\Debug\net6.0\DartProgrammet.pdb
+C:\Users\Kevin Swärdh\source\repos\DartProgrammet\DartProgrammet\obj\Debug\net6.0\DartProgrammet.genruntimeconfig.cache
